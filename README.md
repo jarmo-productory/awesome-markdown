@@ -203,6 +203,9 @@ Choose source editing, WYSIWYG or a separate previewer first; then compare docum
 - [TypeFire Markdown Editor](https://typefire.app/markdown-editor-online) - A free browser editor that formats Markdown in place, with document tabs and autosave in the current browser. Exports Markdown and HTML; PDF uses the browser print dialog. No account is required. Download backups, and clear saved documents after using a shared computer.<br>
   <span>`Free option` · `Web`</span>
 
+- [Ritemark](https://ritemark.app/en/) - A desktop WYSIWYG editor for a folder of local .md files, with a built-in terminal where Claude Code, Codex or OpenCode edit the same files. Supports Mermaid diagrams and Word and PDF export. The agent features use your own AI account.<br>
+  <span>`Open source` · `macOS` · `Windows`</span>
+
 <a id="笔记与知识管理软件"></a>
 
 ### Notes and Knowledge Management

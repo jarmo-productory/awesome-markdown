@@ -195,6 +195,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [TypeFire Markdown Editor](https://typefire.app/markdown-editor-online) - 免费的浏览器 Markdown 编辑器，输入时直接呈现格式，支持多文档标签和当前浏览器内自动保存。可导出 Markdown、HTML，PDF 通过浏览器打印对话框生成，无需账号。建议下载备份，在共用电脑上使用后清除已保存文档。<br>
   <span>`提供免费方案` · `Web`</span>
 
+- [Ritemark](https://ritemark.app/en/) - 面向本地 .md 文件夹的桌面所见即所得编辑器，内置终端，Claude Code、Codex 或 OpenCode 可直接编辑同一批文件。支持 Mermaid 图表及 Word、PDF 导出。AI 代理功能使用你自己的 AI 账户。<br>
+  <span>`开源` · `macOS` · `Windows`</span>
+
 ### 笔记与知识管理软件
 
 关注内容保存方式、链接组织与迁移能力。以 Markdown 输入内容，并不意味着笔记以 .md 文件保存。

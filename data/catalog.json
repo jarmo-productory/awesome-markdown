@@ -1403,6 +1403,39 @@
       }
     },
     {
+      "id": "ritemark",
+      "name": {
+        "en": "Ritemark",
+        "zh": "Ritemark"
+      },
+      "url": "https://ritemark.app/en/",
+      "category": "dedicated-markdown-editors",
+      "parent": null,
+      "description": {
+        "en": "A desktop WYSIWYG editor for a folder of local .md files, with a built-in terminal where Claude Code, Codex or OpenCode edit the same files. Supports Mermaid diagrams and Word and PDF export. The agent features use your own AI account.",
+        "zh": "面向本地 .md 文件夹的桌面所见即所得编辑器，内置终端，Claude Code、Codex 或 OpenCode 可直接编辑同一批文件。支持 Mermaid 图表及 Word、PDF 导出。AI 代理功能使用你自己的 AI 账户。"
+      },
+      "tags": [
+        "open-source",
+        "macos",
+        "windows"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-10-12",
+        "level": "source-review",
+        "sources": [
+          "https://ritemark.app/en/",
+          "https://github.com/ProductoryHQ/ritemark-native"
+        ],
+        "note": {
+          "en": "Reviewed the official site and repository for platforms, MIT license, the built-in terminal agents and export formats; no independent application test. Submitted by the developer.",
+          "zh": "核对官网与代码仓库中的平台、MIT 许可证、内置终端中的 AI 代理及导出格式，未进行独立应用实测。由开发者提交。"
+        }
+      }
+    },
+    {
       "id": "persona",
       "name": {
         "en": "Persona",
