@@ -1412,8 +1412,8 @@
       "category": "dedicated-markdown-editors",
       "parent": null,
       "description": {
-        "en": "A desktop WYSIWYG editor for a folder of local .md files, with a built-in terminal where Claude Code, Codex or OpenCode edit the same files. Supports Mermaid diagrams and Word and PDF export. The agent features use your own AI account.",
-        "zh": "面向本地 .md 文件夹的桌面所见即所得编辑器，内置终端，Claude Code、Codex 或 OpenCode 可直接编辑同一批文件。支持 Mermaid 图表及 Word、PDF 导出。AI 代理功能使用你自己的 AI 账户。"
+        "en": "A desktop WYSIWYG editor for local .md files, with a terminal and built-in Claude Code, Codex and OpenCode agents that edit the same files. Supports Mermaid and Word/PDF export; remote images are not embedded in exports. The app is free; AI uses your provider account or API keys, with separate costs, and sends agent-read content to that provider.",
+        "zh": "面向本地 .md 文件的桌面所见即所得编辑器，提供终端和内置的 Claude Code、Codex、OpenCode 代理，可编辑同一批文件。支持 Mermaid 与 Word、PDF 导出，导出不嵌入远程图片。应用免费；AI 需自备服务商账号或 API 密钥，费用另计，代理读取的内容会发送给对应服务商。"
       },
       "tags": [
         "open-source",
@@ -1423,15 +1423,18 @@
       "links": [],
       "status": "active",
       "review": {
-        "date": "2026-10-12",
+        "date": "2026-10-13",
         "level": "source-review",
         "sources": [
           "https://ritemark.app/en/",
-          "https://github.com/ProductoryHQ/ritemark-native"
+          "https://github.com/ProductoryHQ/ritemark-native",
+          "https://github.com/ProductoryHQ/ritemark-native/blob/main/docs/user/features/README.md",
+          "https://github.com/ProductoryHQ/ritemark-native/blob/main/docs/user/features/export.md",
+          "https://github.com/ProductoryHQ/ritemark-native/blob/main/extensions/ritemark/webview/src/lib/mermaid.ts"
         ],
         "note": {
-          "en": "Reviewed the official site and repository for platforms, MIT license, the built-in terminal agents and export formats; no independent application test. Submitted by the developer.",
-          "zh": "核对官网与代码仓库中的平台、MIT 许可证、内置终端中的 AI 代理及导出格式，未进行独立应用实测。由开发者提交。"
+          "en": "Reviewed the official site, MIT license and feature documentation for macOS/Windows, visual Markdown editing, terminal/agent integration, Mermaid and Word/PDF export, including the documented remote-image export limitation. The app is free; AI uses the user’s provider account or API keys and sends agent-read content to that provider. No application test. Submitted by the developer.",
+          "zh": "核对官网、MIT 许可与功能文档中的 macOS/Windows、可视化 Markdown 编辑、终端与代理集成、Mermaid 及 Word/PDF 导出及文档注明的远程图片导出限制。应用免费，AI 使用用户自己的服务商账号或 API 密钥，代理读取的内容会发送给对应服务商。未进行应用实测。由开发者提交。"
         }
       }
     },

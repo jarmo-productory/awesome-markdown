@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-10-13
+
+- Added Ritemark to both catalogs, with its local Markdown workflow and AI account, cost and data-handling boundaries. 双语清单新增 Ritemark，注明本地 Markdown 工作流及 AI 账号、费用和内容处理边界。
+
 ## 2026-10-09
 
 - Added Google Docs / Drive native Markdown collaboration with formatting limits, and linked the Typora and Obsidian companion catalogs. 新增 Google Docs / Drive 原生 Markdown 协作及格式限制说明，增加 Typora、Obsidian 专题清单入口。
